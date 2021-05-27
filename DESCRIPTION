@@ -14,8 +14,6 @@ Depends:
     dataRetrieval,
     dplyr,
     ggplot2,
-    lubridate,
-    tidyr,
-    viridis
+    lubridate
 Encoding: UTF-8
 LazyData: true
